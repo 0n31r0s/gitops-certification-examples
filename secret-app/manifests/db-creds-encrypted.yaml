@@ -12,7 +12,7 @@ spec:
   template:    
     data: null    
     metadata:      
-    creationTimestamp: null      
-    name: mysql-credentials      
-    namespace: default    
+      creationTimestamp: null      
+      name: mysql-credentials      
+      namespace: default    
   type: Opaque
