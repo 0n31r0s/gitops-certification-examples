@@ -12,5 +12,5 @@ spec:
       metadata:      
         creationTimestamp: null      
         name: paypal-cert      
-    namespace: default    
+        namespace: default    
     type: Opaque
