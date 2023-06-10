@@ -15,4 +15,4 @@ spec:
       creationTimestamp: null      
       name: mysql-credentials      
       namespace: default    
-  type: Opaque
+    type: Opaque
